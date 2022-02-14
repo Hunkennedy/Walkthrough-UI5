@@ -1,0 +1,12 @@
+html[dir="ltr"] .myAppSapUi5 .btnPrimary.sapMBtn {
+  margin-right: 0.12rem;
+}
+
+html[dir="rtl"] .myAppSapUi5 .btnPrimary.sapMBtn {
+  margin-left: 0.12rem;
+}
+
+.myAppSapUi5 .myCustomText {
+  display: inline-block;
+  font-weight: bold;
+}
